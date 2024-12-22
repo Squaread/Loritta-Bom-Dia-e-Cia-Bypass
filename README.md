@@ -2,7 +2,7 @@
 Uma extensão de navegador que corrige automaticamente qualquer frase do "Bom Dia &amp; Cia" da Loritta
 
 ## Tutorial de Uso
-Quando o evento do Bom dia & Cia começar, copie a frase e abra a extensão, após isso clique no botão "Corrigir", onde todos os caracteres invisiveis serão removidos. A frase já limpa será automaticamente copiada na sua area da transferencia, depois disso é só fazer um CTRL + V.
+Quando o evento do Bom dia & Cia começar, copie a frase e abra a extensão, após isso clique no botão "Corrigir", onde todos os caracteres invisíveis serão removidos. A frase já limpa será automaticamente copiada pra sua área da transferencia, depois disso é só fazer um CTRL + V.
 
 - Para encontrar a extensão abra a lista de extensões do seu navegador, geralmente encontrada na parte superior direita em forma de caixa ou quebra-cabeça.
 - Copie SOMENTE a frase do comando, exemplo: `+ligar 4002-8922 não quero ganhar um skate, eu quero ganhar 1 preíesteichu 3`.
