@@ -9,7 +9,8 @@ Quando o evento do Bom dia & Cia começar, copie a frase e abra a extensão, ap�
 
 ## Instalação
 1. Instale a versão mais recente desse repositório em "Releases".
-2. No seu navegador digite `chrome://extensions/`.
-3. Procure e ative a opção **Modo de desenvolvedor**.
-4. Clique em **Carregar sem compactação** e selecione a pasta da extesão instalada.
-5. Verifique se a extesão aparece na lista de extensões, e pronto.
+2. Descompacte os arquivos.
+3. No seu navegador digite `chrome://extensions/`.
+4. Procure e ative a opção **Modo de desenvolvedor**.
+5. Clique em **Carregar sem compactação** e selecione a pasta da extesão instalada.
+6. Verifique se a extesão aparece na lista de extensões, e pronto.
