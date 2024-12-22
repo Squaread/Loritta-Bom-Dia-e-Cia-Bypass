@@ -1,2 +1,14 @@
 # Loritta-Bom-Dia-Cia-Bypass
-Uma extensão de navegador que corrige automaticamente a frase copiada do "Bom Dia &amp; Cia" da Loritta
+Uma extensão de navegador que corrige automaticamente qualquer frase do "Bom Dia &amp; Cia" da Loritta
+
+## Tutorial de Uso
+Quando o evento do Bom dia & Cia começar, copie a frase e abra a extensão, após isso clique no botão "Corrigir", onde todos os caracteres invisiveis serão removidos. A frase já limpa será automaticamente copiada na sua area da transferencia, depois disso é só fazer um CTRL + V.
+
+Para encontrar a extensão abra a lista de extensões do seu navegador, geralmente encontrada na parte superior direita em forma de caixa ou quebra-cabeça.
+
+## Instalação
+1. Instale a versão mais recente desse repositório em "Releases".
+2. No seu navegador digite `chrome://extensions/`.
+3. Procure e ative a opção **Modo de desenvolvedor**.
+4. Clique em **Carregar sem compactação** e selecione a pasta da extesão instalada.
+5. Verifique se a extesão aparece na lista de extensões, e pronto.
