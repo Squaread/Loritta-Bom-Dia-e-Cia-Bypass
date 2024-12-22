@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "Bom Dia & Cia - Bypass",
+    "version": "1.0",
+    "description": "Uma extensão de navegador que corrige automaticamente qualquer frase do Bom Dia & Cia da Loritta.",
+    "permissions": [
+      "clipboardWrite",
+      "clipboardRead"
+    ],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+      }
+    }
+  }
+  
