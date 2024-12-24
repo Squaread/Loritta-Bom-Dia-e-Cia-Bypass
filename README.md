@@ -12,5 +12,5 @@ Quando o evento do Bom dia & Cia começar, copie a frase e abra a extensão, ap�
 2. Descompacte os arquivos.
 3. No seu navegador digite `chrome://extensions/`.
 4. Procure e ative a opção **Modo de desenvolvedor**.
-5. Clique em **Carregar sem compactação** e selecione a pasta da extesão instalada.
-6. Verifique se a extesão aparece na lista de extensões, e pronto.
+5. Clique em **Carregar sem compactação** e selecione a pasta da extensão instalada.
+6. Verifique se a extensão aparece na lista de extensões, e pronto.
